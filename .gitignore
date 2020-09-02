@@ -1,3 +1,7 @@
+# Custome ignore
+.idea/
+*.iml
+
 # Compiled class file
 *.class
 
